@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Guilherme 👋
 
-👨🏻‍💻 Bacharel em Sistemas de Informação (conclusão em 2026). <br>
-💻 Cursos específicos na área de Tecnologia.
+Sou estudante do 5º termo de Sistemas de Informação e apaixonado pela área de desenvolvimento web, com foco em backend. Tenho experiência prática com Spring Boot, Node.js e MySQL, aplicando esses conhecimentos em diversos trabalhos acadêmicos.
+
+Minhas principais habilidades incluem resolução de problemas e desenvolvimento de algoritmos, além de experiência em linguagens como C, Python, Java, JavaScript e TypeScript.
+
+Sempre busco aprender novas tecnologias e aprimorar minhas habilidades para me tornar um desenvolvedor cada vez mais completo
 <br> <br>
 ## Conecte-se comigo!
 <div> 
