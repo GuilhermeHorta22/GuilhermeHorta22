@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme 👋
 
-Sou estudante do 5º termo de Sistemas de Informação e apaixonado pela área de desenvolvimento web, com foco em backend. Tenho experiência prática com Spring Boot, Node.js e MySQL, aplicando esses conhecimentos em diversos trabalhos acadêmicos.
+Sou estudante do 5º termo de Sistemas de Informação e apaixonado pela área de desenvolvimento web, com foco em backend. Tenho experiência prática com Spring Boot, Node.js e Oracle SQL, aplicando esses conhecimentos em diversos trabalhos acadêmicos.
 
 Minhas principais habilidades incluem resolução de problemas e desenvolvimento de algoritmos, além de experiência em linguagens como C, Python, Java, JavaScript e TypeScript.
 
@@ -21,7 +21,9 @@ Sempre busco aprender novas tecnologias e aprimorar minhas habilidades para me t
   <img align="center" alt="guiHorta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="guiHorta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="guiHorta-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="guiHorta-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="guiHorta-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="guiHorta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="guiHorta-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div> <br>
 
