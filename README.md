@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme 👋
 
-Sou estudante do 5º termo de Sistemas de Informação e apaixonado pela área de desenvolvimento web, com foco em backend. Tenho experiência prática com Spring Boot, Nodejs, react e Oracle SQL, aplicando esses conhecimentos em diversos trabalhos acadêmicos.
+Sou estudante do 5º termo de Sistemas de Informação e apaixonado pela área de desenvolvimento web, com foco em full stack. Tenho experiência prática com Spring Boot, Nodejs, react e Oracle SQL, aplicando esses conhecimentos em diversos trabalhos acadêmicos.
 
 Minhas principais habilidades incluem resolução de problemas e desenvolvimento de algoritmos, além de experiência em linguagens como C, Java, JavaScript, TypeScript, HTML e CSS.
 
