@@ -15,8 +15,8 @@ Sempre busco aprender novas tecnologias e aprimorar minhas habilidades para me t
   
 ## Minhas habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,spring,js,ts,nodejs,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,spring,js,ts,nodejs,react,express,html,css,postgres)](https://skillicons.dev)
 
 ## Habilidades sendo desenvolvidas
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,docker,prisma)](https://skillicons.dev)
