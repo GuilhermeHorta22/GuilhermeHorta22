@@ -19,4 +19,4 @@ Sempre busco aprender novas tecnologias e aprimorar minhas habilidades para me t
 
 ## Habilidades sendo desenvolvidas
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,docker,)](https://skillicons.dev)
